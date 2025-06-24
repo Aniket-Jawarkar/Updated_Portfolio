@@ -30,7 +30,7 @@ const Contact = () => {
         "service_0az540f",
         "template_uti5wxk",
         {
-          to_email: "giftedclan0305@gmail.com",
+          to_email: "ajawarkar7749@gmail.com",
           from_name: formData.reply_to,
           to_name: "Customer",
           text_message: formData.message,

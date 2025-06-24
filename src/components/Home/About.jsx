@@ -17,27 +17,27 @@ const About = () => {
               LET ME <span className="yellow"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hi, my name is <span className="yellow">Edmond Vitel</span>{" "}
+              Hi, my name is <span className="yellow">Aniket Jawarkar</span>{" "}
               and I'm from{" "}
-              <span className="yellow"> Rosny-sur-Seine, France.</span>
+              <span className="yellow"> Vishwakarma institute of technology.</span>
               <br />
               <br />
-              I graduated with a Bachelor's degree in Computer Science and
-              Engineering in 2017.
+              Im graduating with a Bachelor's degree in Information technology and
+              Engineering in 2026.
               <br />
               <br />
               As a<b className="yellow"> Full-Stack </b>developer, I enjoy
               tackling new challenges and continuously expanding my skillset.
               <br />
               <br />I am proficient in
-              <b className="yellow"> Javascript & PHP.</b>
+              <b className="yellow"> Javascript & React Framework.</b>
               <br />
               <br />
-              I have a lot of experience with MERN Stack, Next.js, Django and
-              PHP Laravel and CodeIgniter, Symfony frameworks.
+              I have a lot of experience with Javascript , react , Spring, Spring Boot and
+              Mysql & MongoDb.
               <br />
               <br />I have a passion for working with{" "}
-              <b className="yellow">Node.js, MongoDB,</b> and
+              <b className="yellow">Spring boot, MongoDB,</b> and
               <i>
                 <b className="yellow">
                   {" "}
@@ -46,7 +46,7 @@ const About = () => {
               </i>
               &nbsp; like
               <i>
-                <b className="yellow"> React.js, Angular.js</b>
+                <b className="yellow"> React.js</b>
               </i>
               <br />
               <br />I am also interested in building new
