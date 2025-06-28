@@ -22,8 +22,8 @@ const About = () => {
               <span className="yellow"> Vishwakarma institute of technology.</span>
               <br />
               <br />
-              Im graduating with a Bachelor's degree in Information technology and
-              Engineering in 2026.
+              Im graduating with a  Engineering degree in Information technology 
+              in 2026.
               <br />
               <br />
               As a<b className="yellow"> Full-Stack </b>developer, I enjoy

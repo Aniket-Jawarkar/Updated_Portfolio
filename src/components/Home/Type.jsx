@@ -8,7 +8,9 @@ const Type = () => {
         strings: [
           "Java Full-Stack Developer",
           "Passionate Java Developer",
-          "Effective Problem Solver"
+          "Effective Problem Solver",
+          "Good at Maths",
+          "Good at Dsa"
         ],
         autoStart: true,
         loop: true,

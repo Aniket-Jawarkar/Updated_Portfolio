@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "Project One",
+      "description": "A brief description of Project One.",
+      "image": "assets/projects/project1.png",
+      "githubLink": "https://github.com/yourusername/project-one",
+      "demoLink": "https://yourdomain.com/project-one"
+    },
+    {
+      "id": 2,
+      "title": "Project Two",
+      "description": "A brief description of Project Two.",
+      "image": "assets/projects/project2.png",
+      "githubLink": "https://github.com/yourusername/project-two",
+      "demoLink": "https://yourdomain.com/project-two"
+    },
+    {
+      "id": 3,
+      "title": "Project Three",
+      "description": "A brief description of Project Three.",
+      "image": "assets/projects/project3.png",
+      "githubLink": "https://github.com/yourusername/project-three",
+      "demoLink": "https://yourdomain.com/project-three"
+    },
+    {
+      "id": 4,
+      "title": "Project Four",
+      "description": "A brief description of Project Four.",
+      "image": "assets/projects/project4.png",
+      "githubLink": "https://github.com/yourusername/project-four",
+      "demoLink": "https://yourdomain.com/project-four"
+    },
+    {
+      "id": 5,
+      "title": "Project Five",
+      "description": "A brief description of Project Five.",
+      "image": "assets/projects/project5.png",
+      "githubLink": "https://github.com/yourusername/project-five",
+      "demoLink": "https://yourdomain.com/project-five"
+    }
+  ]
+  
