@@ -5,9 +5,9 @@ import TestDomeCertificate from "../components/TestDomeCertificate";
 import ProjectCard from "../components/Projects/ProjectCard";
 import certificates from "../assets/certificates.json";
 import projects from "../assets/projects.json";
-import cert1 from "";
-import cert2 from "";
-import cert3 from ".";
+import cert1 from "../assets/cert/certificate1.pdf";
+import cert2 from "../assets/cert/certificate1.pdf";
+import cert3 from "../assets/cert/certificate1.pdf";
 import Iframe from 'react-iframe';
 
 const Projects = () => {
