@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from "react";
 import {
   BrowserRouter as Router,
@@ -19,7 +20,7 @@ import ScrollToTop from "./components/ScrollToTop"
 
 import "./App.css";
 import "./index.css";
-import "bootstrap/dist/css/bootstrap.min.css";
+
 
 function App() {
   const [load, upadateLoad] = useState(true);

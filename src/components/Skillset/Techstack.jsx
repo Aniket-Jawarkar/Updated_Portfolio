@@ -8,18 +8,19 @@ import {
   DiGit,
 } from "react-icons/di";
 import {
-  SiMaterialui,
-  SiGraphql,
-  SiSolidity,
+  SiHtml5,
   SiRedux,
   SiMongodb,
-  SiHtml5
+  SiMaterialdesign,   // <-- swapped in
+  SiGraphql,
+  SiSolidity,
 } from "react-icons/si";
 
 const Techstack = () => {
   useEffect(() => {
     Aos.init();
-  }, [])
+  }, []);
+
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons" data-aos="zoom-in">
@@ -28,7 +29,6 @@ const Techstack = () => {
       <Col xs={4} md={2} className="tech-icons" data-aos="zoom-in">
         <DiJavascript1 />
       </Col>
-     
       <Col xs={4} md={2} className="tech-icons" data-aos="zoom-in">
         <DiReact />
       </Col>
@@ -38,16 +38,20 @@ const Techstack = () => {
       <Col xs={4} md={2} className="tech-icons" data-aos="zoom-in">
         <SiMongodb />
       </Col>
-      
-      
       <Col xs={4} md={2} className="tech-icons" data-aos="zoom-in">
-        <SiMaterialui />
+        <SiMaterialdesign />  {/* ← corrected icon */}
+      </Col>
+      <Col xs={4} md={2} className="tech-icons" data-aos="zoom-in">
+        <SiGraphql />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons" data-aos="zoom-in">
+        <SiSolidity />
       </Col>
       <Col xs={4} md={2} className="tech-icons" data-aos="zoom-in">
         <DiGit />
       </Col>
     </Row>
   );
-}
+};
 
 export default Techstack;
